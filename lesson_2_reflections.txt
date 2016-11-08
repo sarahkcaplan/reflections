@@ -22,3 +22,6 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	THe final outcome of things added or deleted from the shared parent is marged together into one branch. The new merged branch has two parents so we show the merged branch pointing to the two branches.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Automatic merging might not do what's best and always doing it manually is a pain, but you will know what's going on in the code and make the conscious/the right decisions
