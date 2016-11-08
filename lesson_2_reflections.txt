@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	It adds a hidden .git file with kind of boiler-plate empty files ready to start storing your versions and commits. If you don't initialize the repository, you just have a directory and no way to commit to it.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	It's a temporary folder to organize your commits without commiting to them.
